@@ -1,0 +1,5 @@
+# build artifacts (never commit)
+dist/
+build/
+*.egg-info/
+__pycache__/
