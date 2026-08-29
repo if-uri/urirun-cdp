@@ -13,5 +13,8 @@ requires-python = ">=3.10"
 # so installing this alongside `urirun` cannot shadow the bundle copy.
 dependencies = ["urirun>=0.4.190"]
 
+[project.optional-dependencies]
+test = ["pytest>=8"]
+
 [tool.setuptools]
 packages = []                # meta-package — no import package shipped
