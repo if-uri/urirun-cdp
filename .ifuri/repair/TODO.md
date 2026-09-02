@@ -2,7 +2,7 @@
 
 Process: `repair.v1`
 Issue: `#297`
-Correlation ID: `33156820757`
+Correlation ID: `33457151615`
 
 - [x] Reproduce the original failure
 - [x] Fix the root cause
@@ -10,3 +10,4 @@ Correlation ID: `33156820757`
 - [x] Update implementation documentation
 - [x] Produce digest-bound ticket2dsl, code2dsl, docs2dsl and service2dsl projections
 - [x] Complete every Repair TODO item
+- [x] Keep `.env.example` tracked and aligned with supported settings
