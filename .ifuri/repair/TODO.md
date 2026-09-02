@@ -11,3 +11,4 @@ Correlation ID: `33457151615`
 - [x] Produce digest-bound ticket2dsl, code2dsl, docs2dsl and service2dsl projections
 - [x] Complete every Repair TODO item
 - [x] Keep `.env.example` tracked and aligned with supported settings
+- [x] Expose the full test suite through the Validator `doctor-test` contract
