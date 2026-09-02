@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "urirun-cdp"
-version = "0.2.0"
+version = "0.2.1"
 description = "Meta-package: CDP (Chrome DevTools Protocol) browser-surface primitive for urirun. The `urirun_cdp` import package now ships inside the `urirun` distribution (the single source of truth); this distribution just depends on it so `pip install urirun-cdp` and `import urirun_cdp` keep working."
 readme = "README.md"
 license = "Apache-2.0"

@@ -1,0 +1,14 @@
+# Repair checklist
+
+Process: `repair.v1`
+Issue: `#297`
+Correlation ID: `33457151615`
+
+- [x] Reproduce the original failure
+- [x] Fix the root cause
+- [x] Add or update regression tests
+- [x] Update implementation documentation
+- [x] Produce digest-bound ticket2dsl, code2dsl, docs2dsl and service2dsl projections
+- [x] Complete every Repair TODO item
+- [x] Keep `.env.example` tracked and aligned with supported settings
+- [x] Expose the full test suite through the Validator `doctor-test` contract

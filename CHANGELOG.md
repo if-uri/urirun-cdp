@@ -1,5 +1,9 @@
 # Changelog
 
+## [0.2.1] - 2026-09-02
+
+- Validator accepted repair for Issue #297 (`33457151615`).
+
 All notable changes to `urirun-cdp` are documented here.
 The format follows [Keep a Changelog](https://keepachangelog.com/).
 
