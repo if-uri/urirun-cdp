@@ -18,3 +18,11 @@ test = ["pytest>=8"]
 
 [tool.setuptools]
 packages = []                # meta-package — no import package shipped
+
+[tool.wellmanifest]
+standard = "0.20.35"
+revision = "cfaa0bf0ea6b0e7349fed0bb62b5ce15792d687d"
+gate = "project/governance-check.sh"
+
+[tool.pytest.ini_options]
+addopts = "-p wellmanifest_governance"

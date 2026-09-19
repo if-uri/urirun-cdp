@@ -3,7 +3,7 @@
 - **ID**: ticket-002
 - **Owner**: unresolved:agent
 - **Status**: DONE
-- **Workflow state**: DONE
+- **Workflow state**: PUBLICATION
 - **Created**: 2026-08-29
 
 ## Problem
